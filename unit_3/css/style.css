@@ -1,7 +1,8 @@
 body {
-    background-image: images/hero_image.jpg;
+    background-image: url("hero_image.jpg");
     background-size: cover;
     text-align: center;
+    font-family: Helvetica	
 }
 
 h1, p {
