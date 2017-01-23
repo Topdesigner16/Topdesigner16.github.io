@@ -1,7 +1,6 @@
 body {
     background-image: url("hero_image.jpg");
     background-size: cover;
-    text-align: center;
     font-family: Helvetica	
 }
 
@@ -22,3 +21,6 @@ p {
 	font-size: 16px;
 }
 
+ul {
+	font-size: 16 
+}
