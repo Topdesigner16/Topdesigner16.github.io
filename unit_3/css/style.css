@@ -1,7 +1,8 @@
 body {
-    background-image: url("hero_image.jpg");
+	background-image: url("images/hero_image.jpg");
     background-size: cover;
     font-family: Helvetica	
+    padding: 70px;
 }
 
 h1, p {
@@ -18,9 +19,10 @@ h1 {
 }
 
 p {
-	font-size: 16px;
+	font-size: 20px;
 }
 
 ul {
-	font-size: 16 
+	font-size: 120px;
+
 }
