@@ -1,8 +1,9 @@
 body {
-	background-image: url("hero_image.jpg");
-    background-size: cover;
-    font-family: Helvetica;	
-    padding: 70px;
+  	text-align: center;
+	background: url("hero_image.jpg");
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
 }
 
 h1, p {
