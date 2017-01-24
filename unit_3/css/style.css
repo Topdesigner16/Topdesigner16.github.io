@@ -7,6 +7,7 @@ body {
 }
 
 h1, p {
+    font-family: 'Domine', serif;
     color: #fff;
 }
 
@@ -15,12 +16,14 @@ h1, p {
 }
 
 h1 {
-	font-size: 60px;
-	font-weight: 800px;
+	font-size: 65px;
+	font-weight: 300px;
+	margin-top: 10px;
 }
 
 p {
-	font-size: 20px;
+	font-size: 24px;
+	padding-top: -10px;
 }
 
 ul {
@@ -31,10 +34,21 @@ ul {
 nav {
 	font-size: 24px;
 	font-weight: 800px;
-	padding-top: 50px;
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
 hr {
   	width: 100px;
+  	border-color: hotpink;
+}
+
+a {
+    color: #41ead4;
+    text-decoration: none;
+    font-weight: 300px;
+    padding: 20px;
+    margin-left: 10px;
+    font-family: 'Domine', serif;
+
 }
