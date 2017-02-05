@@ -2,6 +2,7 @@ body {
   	text-align: center;
 	background: url(https://topdesigner16.github.io/unit_3/images/hero_image.jpg);
   	background-size: cover;
+  	background-repeat: no-repeat;
   	color: #fff;
   	font-family: Helvetica;
 }
