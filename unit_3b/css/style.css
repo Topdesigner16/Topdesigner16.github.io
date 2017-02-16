@@ -88,6 +88,11 @@ a {
 
 }
 
+#wrapper {
+	width: 980px;
+	margin: 0 auto;
+}
+
 .navlinks {
 	color: #41ead4;
 	font-weight: 600px;
